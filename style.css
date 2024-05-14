@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+.card {
+    background-color: white;
+    display: flex;
+}
+    
+    p {
+    color: white;
+}
+.top {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+div {
+    border-color: red;
+    border-style: dashed;
+}
+.top-left {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+}
+.post-img {
+    display: flex;
+}
