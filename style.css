@@ -2,16 +2,18 @@ body {
     background-color: black;
     font-family: 'Roboto', sans-serif;
 }
-.card {
+.post {
     background-color: white;
+    color: black;
     display: flex;
+    flex-direction: column;
 }
     
     p {
-    color: white;
+    color: black;
 }
 .top {
-    color: white;
+    color: black;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
