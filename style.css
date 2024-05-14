@@ -46,7 +46,6 @@ button {
 
 .image {
     flex-basis: 250px;
-    background-image: url(/background.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
