@@ -32,11 +32,12 @@ body {
 
 h1 {
     margin:0;
+    font-size: large;
 }
-div {
+/*div {
     border-color: red;
     border-style: dashed;
-}
+}*/
 button {
     border: none;
     background: none;
@@ -53,9 +54,13 @@ button {
 
 .icons {
     display: flex;
+    font-size: 40px;
     flex-direction: row;
     justify-content: space-between;
     padding: 10px;
+}
+i {
+    font-size: 40px;
 }
 
 .texts {
